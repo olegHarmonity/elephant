@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Belephant%7D/static/css/main.702c26a4.css",
+    "main.js": "/%7Belephant%7D/static/js/main.d31943b4.js",
+    "index.html": "/%7Belephant%7D/index.html",
+    "main.702c26a4.css.map": "/%7Belephant%7D/static/css/main.702c26a4.css.map",
+    "main.d31943b4.js.map": "/%7Belephant%7D/static/js/main.d31943b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702c26a4.css",
+    "static/js/main.d31943b4.js"
+  ]
+}
